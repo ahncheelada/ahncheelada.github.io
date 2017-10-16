@@ -43,6 +43,7 @@ h1, h2, h3 {
   font-family: "jubilat",'Roboto Slab', sans-serif;
   font-weight: 100;
   color: #a1a198;
+  text-transform: lowercase;
   }
 
 .thumb {
