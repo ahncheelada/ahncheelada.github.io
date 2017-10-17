@@ -29,6 +29,7 @@
 
 a {
 	text-decoration: none;
+  color: #a1a198;
 }
 
 /*---*/
@@ -75,3 +76,7 @@ p {
 	margin-bottom 1em;
 }
 
+a.back {
+  font-size: 1.5rem;
+  text-transform: lowercase;
+}
